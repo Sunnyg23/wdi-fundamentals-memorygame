@@ -13,9 +13,6 @@
 	 // alert("Match Found")
 //}else{
       //alert("Sorry,try again!.");
-//}
-// find the board and set it to a variable
-// so that we can add cards to it
 
 var board = document.getElementById('game-board');
 
