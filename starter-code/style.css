@@ -21,7 +21,7 @@
 	border-color: 			#000000;
 	border-width:  			1px;
 	border-style: 			solid;
-	background-color:	rgb(255,255,0);
+	background-color:		#c61d20;
 	border-radius: 			10px;
 	float:					left;
 	margin:					8%;
@@ -36,7 +36,7 @@
 }
 
 h1		{
-	color: rgb(2,132,130);
+	color: #c61d20;
 }
 
 h2		{
@@ -48,11 +48,12 @@ body 	{
 }
 
 nav		{
-	background-color: 		#808080;
+	background-color: 		#073d02;
+	border-radius: 50px;
 
 }
 footer	{
-			background-color: #808080;
+			background-color: #073d02;
 			clear:			both;
 }
 
@@ -64,6 +65,10 @@ main {
 	width:50%;
 	height:100%;
 }
+img {
+	height:200px;
+	width: 150px;
+}
 a {
 	background-color:		#ffbf00;
 	color:					#ffffff;
@@ -71,7 +76,9 @@ a {
 	display:				block;
 	float:					left;
 	text-decoration: none;
+	border-radius: 100px;
+
 }
 a:hover	{
-	background-color: 	#ee5f3c;
+	background-color: 	#c61d20;
 }
